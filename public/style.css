@@ -1,0 +1,30 @@
+@charset "UTF-8";
+.info_box {
+	margin: 300px auto 0px;
+	font-family: "微軟正黑體";
+	position:relative;
+	width: 378px;
+	padding: 18px 15px 30px;
+	background:black;
+	color: white;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+.info_box p{
+	text-align: center;
+}
+.info_box h1{
+	color:#FA1648;
+	font-size: 35px;
+	margin: 0px 0px 0px;
+}
+.info_box h2{
+	margin: 5px 5px 5px;
+}
+body{
+	background-image:url(background.png);
+	background-repeat:no-repeat;
+	background-color: #E6E6E6;
+	background-position: top center;
+}
